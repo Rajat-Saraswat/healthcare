@@ -1,2 +1,1 @@
-# healthcare
-vd
+# Wellness-buddy-full-stack
